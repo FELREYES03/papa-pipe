@@ -1,3 +1,5 @@
-nombre = "felipe"
+nombre = "soy"
 apellido= "reyes"
-print ("hola " + nombre + " " + apellido) 
+
+saludo = "hola " + nombre + " " + apellido + " ¿como estas?"
+print (saludo) 
